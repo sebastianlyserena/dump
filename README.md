@@ -1,5 +1,11 @@
 # Useful resources
 
+``` 
+    \    /\    /   \    /\    /   \    /\    /
+     \  /  \  /     \  /  \  /     \  /  \  /
+      \/    \/       \/    \/       \/    \/
+````
+
 ### Ruby on Rails 
 
 * https://markevans.github.io/dragonfly/rails#caching  
