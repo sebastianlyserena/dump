@@ -20,6 +20,20 @@ https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu
 * Live reload assets when developing with guard-liveload and rack-livereload  
 https://mattbrictson.com/lightning-fast-sass-reloading-in-rails
 
+* Free SSL with Heroku free tier  
+https://medium.com/@bantic/free-tls-with-letsencrypt-and-heroku-in-5-minutes-807361cca5d3
+
+* Ruby components with actionview:  
+https://github.com/github/actionview-component
+
+* Svelte components with svelte:  
+https://blog.usejournal.com/getting-started-with-svelte-and-rails-6-d8384c80ad6c
+
+* JS controllers with stimulus:  
+https://stimulusjs.org
+
+* Image upload with postgres and shrine:  
+https://shrinerb.com
   
 ### Assets
 
